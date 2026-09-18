@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "02-rainy-tokyo-alley",
+    "title": "Cinematic night street",
+    "category": "Cinematic still",
+    "version": "flare",
+    "size": "16:9",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Rain-slicked Tokyo alley at night, neon sign reflections on wet asphalt, a lone cyclist with an umbrella, cinematic 35mm film still, shallow depth of field",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "05-ivory-trench-portrait",
+    "title": "Fashion editorial portrait",
+    "category": "Fashion",
+    "version": "flare",
+    "size": "3:4",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Fashion editorial portrait of a model wearing an oversized ivory trench coat, seamless light grey studio backdrop, crisp high key lighting, medium format detail",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "04-gradient-paper-plane-icon",
+    "title": "App icon / 3D asset",
+    "category": "UI asset",
+    "version": "flare",
+    "size": "1:1",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Glossy 3D app icon of a paper plane folded from a coral to violet gradient material, floating on a soft neutral grey backdrop, subtle contact shadow, centered composition",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "06-cliffside-villa-golden-hour",
+    "title": "Architectural render",
+    "category": "Architecture",
+    "version": "flare",
+    "size": "16:9",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Modern cliffside villa at golden hour, infinity pool reflecting the sky, warm interior lights, architectural photography, 24mm perspective, ultra sharp detail",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "08-api-latency-dashboard-panel",
+    "title": "Flat vector dashboard panel",
+    "category": "Design / infographic",
+    "version": "sunburst",
+    "size": "16:9",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Flat vector dashboard panel with three gauge dials, abstract latency curves and clean geometric cards, muted blue and sand palette, generous white space, crisp vector edges",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "07-isometric-smart-home",
+    "title": "Isometric 3D cutaway",
+    "category": "3D illustration",
+    "version": "sunburst",
+    "size": "1:1",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Isometric cutaway of a compact smart home control room, tiny mid century furniture, pastel palette, clay render finish, clean soft shadows, 3D illustration",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "12-paper-cut-mountain-lake",
+    "title": "Layered paper-cut illustration",
+    "category": "Editorial illustration",
+    "version": "sunburst",
+    "size": "4:3",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Layered paper cut illustration of a mountain lake sunrise, five depth layers, soft pastel palette, subtle drop shadows, art print composition",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "10-amber-serum-packshot",
+    "title": "Cosmetics packshot",
+    "category": "Product / cosmetics",
+    "version": "sunburst",
+    "size": "1:1",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Cosmetics packshot of a frosted glass bottle with amber serum, water droplets on the surface, seamless pale pink backdrop, high detail commercial product photography",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "01-product-hero-espresso-cup",
+    "title": "Studio product hero",
+    "category": "Product / e-commerce",
+    "version": "flare",
+    "size": "1:1",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Studio product hero of a matte ceramic espresso cup on a warm stone pedestal, soft window light, 85mm lens look, minimal beige backdrop, crisp shadow",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "11-floating-ruin-keyart",
+    "title": "Game key art",
+    "category": "Game concept art",
+    "version": "sunburst",
+    "size": "16:9",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Fantasy game key art, an armored knight standing on a floating stone ruin above a sea of clouds, dramatic backlight, painterly detail, wide cinematic composition",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "03-ramen-flatlay",
+    "title": "Menu food photography",
+    "category": "Food photography",
+    "version": "flare",
+    "size": "4:3",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Overhead flat lay of a spicy ramen bowl with a soft boiled egg, chopsticks resting on the rim, dark slate table, natural side light, editorial food photography",
+    "observed_cost_usd": 0.0085
+  },
+  {
+    "slug": "09-monarch-wing-macro",
+    "title": "Macro nature detail",
+    "category": "Nature macro",
+    "version": "sunburst",
+    "size": "3:2",
+    "resolution": "1K",
+    "model": "gpt-image-2.5-ext",
+    "prompt": "Macro photograph of a dew covered monarch butterfly wing, iridescent orange scales, deep black background, focus stacked detail, studio lighting",
+    "observed_cost_usd": 0.0085
+  }
+]
