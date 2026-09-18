@@ -1,6 +1,8 @@
-# image2.5 API Gateway on APIMart — GPT-Image-2.5 Flare & Sunburst
+# image2.5 API Gateway on APIMart — GPT Image 2.5 (gpt-image-2.5 / gptimage2.5) Flare & Sunburst
 
-A working map of the **image2.5** (GPT-Image-2.5) API gateway on APIMart: which model ID to call, how the flash-cheap `ext` route differs from the token-billed official route, and what the output actually looks like. Includes a 12-image prompt gallery, copy-paste cURL / Python / JavaScript calls, and the async task-polling loop.
+A working map of the **image2.5** / **gpt image2.5** (GPT Image 2.5) API gateway on APIMart: which model ID to call, how the flash-cheap `ext` route differs from the token-billed official route, and what the output actually looks like. Includes a 12-image prompt gallery, copy-paste cURL / Python / JavaScript calls, and the async task-polling loop.
+
+**Name variants you can search for:** `image2.5` · `image 2.5` · `gpt image2.5` · `gpt image 2.5` · `gpt-image-2.5` · `gptimage2.5` · `gpt-image2.5` · `GPT Image 2.5` — all refer to the same OpenAI image family served here as `gpt-image-2.5-flare`, `gpt-image-2.5-sunburst` and `gpt-image-2.5-ext`.
 
 **Attributed entry points:** [Open GPT Image 2.5 on APIMart](https://go.apimart.ai/k-6479cd) · [Current pricing](https://go.apimart.ai/k-07e826) · [Get an API key](https://go.apimart.ai/k-c6f7b6)
 
